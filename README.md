@@ -41,7 +41,7 @@ Hi! I'm César, I currently study physics at UAM and I'm a 42 student in 42Madri
 #### Lab reports
 
 - [Balmer lines](https://github.com/cesardelarosa/Lineas_de_Balmer)
-  - Experimental calculation of wavelengths in the visible of a hydrogen lamp.
+  - Experimental determination of wavelengths in the visible spectrum of a hydrogen lamp.
 
 ## Contact
 
