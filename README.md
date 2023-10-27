@@ -1,6 +1,6 @@
 # Welcome! 👋🏽
 
-## About Me 😳
+## About Me 🤓
 Hi! I'm César, I currently study physics at UAM and I'm a 42 student in 42Madrid (cde-la-r). I love programming and I'm specially interested in cybersecurity and IA. I mainly publish projects from my progress in 42 common core and from my degree.
 
 ## Skills 🤸🏽‍♂️
@@ -13,24 +13,24 @@ Hi! I'm César, I currently study physics at UAM and I'm a 42 student in 42Madri
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="GIT" width="50"/>](https://git-scm.com/) &nbsp; &nbsp; &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50" style="border: 2px solid #fff;">](https://www.latex-project.org/)
 
-## Featured Projects
+## Featured Projects 🖇️
 
 ### 42 👨🏽‍💻
 
-#### Piscine
+#### Piscine 🗓️
 
 - [42 Piscine 🏊🏼‍♂️](https://github.com/cesardelarosa/42-Piscine)
   - My work on 42Madrid Piscine (July 2023)
   - Shell00, Shell01, C00 to C07 and Rush00
 
-#### Level 0 - Common Core
+#### Level 0 - Common Core 🌱
 
 
 - [Libft 🗃️](https://github.com/cesardelarosa/Libft)
   - Implementing functions from the C standard library (libc) and managing linked lists.
   - 125/100 (success) | 22/09/2023
 
-#### Level 1 - Common Core
+#### Level 1 - Common Core 🌿
 
 - [ft_printf 🖨️](https://github.com/cesardelarosa/ft_printf)
   - My own (simplified) implementation of printf, works with cspdiuxX% conversions and no flags.
@@ -38,7 +38,7 @@ Hi! I'm César, I currently study physics at UAM and I'm a 42 student in 42Madri
 
 ### Physics ⚛️
 
-#### Lab reports
+#### Lab reports 📑
 
 - [Balmer lines ✨](https://github.com/cesardelarosa/Lineas_de_Balmer)
   - Experimental determination of wavelengths in the visible spectrum of a hydrogen lamp.
