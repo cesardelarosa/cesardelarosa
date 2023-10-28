@@ -35,12 +35,15 @@ Hi! I'm César, I currently study physics at UAM and I'm a 42 student in 42Madri
 - [ft_printf 🖨️](https://github.com/cesardelarosa/ft_printf)
   - My own (simplified) implementation of printf, works with cspdiuxX% conversions and no flags.
   - 100/100 (success) | 30/09/2023
+- [get_next_line 📝](https://github.com/cesardelarosa/get_next_line)
+  - A function designed to read a file and retrieve its lines sequentially.
+  - To be evaluated   
 
 ### Physics ⚛️
 
 #### Lab reports 📑
 
-- [Balmer lines ✨](https://github.com/cesardelarosa/Lineas_de_Balmer)
+- [Balmer series ✨](https://github.com/cesardelarosa/Lineas_de_Balmer)
   - Experimental determination of wavelengths in the visible spectrum of a hydrogen lamp.
 
 ## Contact 📬
