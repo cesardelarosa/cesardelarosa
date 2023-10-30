@@ -17,9 +17,9 @@ Hi! I'm César, I currently study physics at UAM and I'm a 42 student in 42Madri
 
 ### 42 👨🏽‍💻
 
-#### Piscine 🗓️
+#### Piscine 🏊🏼‍♂️
 
-- [42 Piscine 🏊🏼‍♂️](https://github.com/cesardelarosa/42-Piscine)
+- [42 Piscine 🗓️](https://github.com/cesardelarosa/42-Piscine)
   - My work on 42Madrid Piscine (July 2023)
   - Shell00, Shell01, C00 to C07 and Rush00
 
