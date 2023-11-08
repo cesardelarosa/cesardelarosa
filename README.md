@@ -37,7 +37,7 @@ Hi! I'm César, I currently study physics at UAM and I'm a 42 student in 42Madri
   - 100/100 (success) | 30/09/2023
 - [get_next_line 📝](https://github.com/cesardelarosa/get_next_line)
   - A function designed to read a file and retrieve its lines sequentially.
-  - To be evaluated   
+  - 125/100 (success) | 08/11/2023  
 - [Born2beroot ⚙️](https://github.com/cesardelarosa/Born2beroot)
   - Documentation and configurations for a Debian setup within a virtual machine.
   - Working on it.     
