@@ -40,7 +40,7 @@ Hi! I'm César, I currently study physics at UAM and I'm a 42 student in 42Madri
   - 125/100 (success) | 08/11/2023  
 - [Born2beroot ⚙️](https://github.com/cesardelarosa/Born2beroot)
   - Documentation and configurations for a Debian setup within a virtual machine.
-  - Working on it.     
+  - 110/100 (success) | 04/07/2024 
 
 #### Level 2 - Common Core 🍀
 
@@ -48,12 +48,6 @@ Hi! I'm César, I currently study physics at UAM and I'm a 42 student in 42Madri
   - A program that showcases various interactive fractal representations.
   - Working on it.
 
-### Physics ⚛️
-
-#### Lab reports 📑
-
-- [Balmer_series ✨](https://github.com/cesardelarosa/Lineas_de_Balmer)
-  - Experimental determination of wavelengths in the visible spectrum of a hydrogen lamp.
 
 ## Contact 📬
 
