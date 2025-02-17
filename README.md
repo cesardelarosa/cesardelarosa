@@ -35,29 +35,23 @@ Hey, I'm César. I study Physics at UNED and I'm a 42 student in 42Madrid (cde-l
 ### Piscine 🏊  
 - 🏗️ [42 Piscine](https://github.com/cesardelarosa/42-Piscine)  
   Basics: Shell scripting, C fundamentals, and some creative suffering.  
-  *(July 2023)*  
 
 ### Core Levels  
 
 - 🔍 **Libft** | [Repo](https://github.com/cesardelarosa/Libft)  
-  Reimplementing libc essentials + linked lists.  
-  **125/100** *(Sep 2023)*  
+  Reimplementing libc essentials + linked lists.   
 
 - 🖨️ **ft_printf** | [Repo](https://github.com/cesardelarosa/ft_printf)  
   My own printf version—no flags, just the essentials.  
-  **100/100** *(Sep 2023)*  
 
 - 📖 **get_next_line** | [Repo](https://github.com/cesardelarosa/get_next_line)  
   File-reading line by line, 'cause streams are a thing.  
-  **125/100** *(Nov 2023)*  
 
 - ⚙️ **Born2beroot** | [Repo](https://github.com/cesardelarosa/Born2beroot)  
   Debian VM setup, basic server config, nothing fancy.  
-  **110/100** *(Jul 2024)*  
 
 - 🌀 **fract-ol** | [Repo](https://github.com/cesardelarosa/fract-ol)  
   Interactive fractals, zoom in, zoom out—math in action.  
-  *(In progress)*  
 
 - 🚰 **pipex** | [Repo](https://github.com/cesardelarosa/pipex)  
   Recreating Unix pipes. Simple idea, tricky implementation.  
@@ -91,4 +85,9 @@ Hey, I'm César. I study Physics at UNED and I'm a 42 student in 42Madrid (cde-l
 ---
 
 ## Contact 📬  
-[ProtonMail](mailto:cesardelarosa.code@proton.me) | [LinkedIn](https://www.linkedin.com/in/c%C3%A9sar-de-la-rosa-sobrino-6b4403239/)
+<a href="mailto:cesardelarosa.code@proton.me">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ProtonMail_icon.svg/1920px-ProtonMail_icon.svg.png" alt="ProtonMail" width="30"/>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/c%C3%A9sar-de-la-rosa-sobrino-6b4403239/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30"/>
+</a>
