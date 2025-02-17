@@ -1,58 +1,94 @@
-# Welcome! 👋🏽
+# Welcome 👋🏽
 
-## About Me 🤓
-Hi! I'm César, I currently study physics at UAM and I'm a 42 student in 42Madrid (cde-la-r). I love programming and I'm specially interested in cybersecurity and IA. I mainly publish projects from my progress in 42 common core and from my degree.
+## About Me 🧠  
+Hey, I'm César. I study Physics at UNED and I'm a 42 student in 42Madrid (cde-la-r). I enjoy coding, especially when it involves cybersecurity, systems, and some AI. This repo is mostly my journey through 42's Common Core and physics side projects.
 
-## Skills 🤸🏽‍♂️
+## Skills & Interests ⚙️  
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="VIM" width="50"/>](https://www.vim.org/) &nbsp; &nbsp; &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50"/>](https://en.cppreference.com/w/c/language) &nbsp; &nbsp; &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/>](https://en.cppreference.com/w/cpp) &nbsp; &nbsp; &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50"/>](https://www.mathworks.com/) &nbsp; &nbsp; &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="BASH" width="50"/>](https://www.gnu.org/software/bash/) &nbsp; &nbsp; &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="GIT" width="50"/>](https://git-scm.com/) &nbsp; &nbsp; &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50" style="border: 2px solid #fff;">](https://www.latex-project.org/)
+- **Low-level Programming & Systems:**  
+  C, Bash scripting, and Unix internals. I like understanding how things work under the hood—memory management, process control, and efficient algorithms. Projects like minishell and pipex gave me solid hands-on experience here.
 
-## Featured Projects 🖇️
+- **Computational Physics:**  
+  I’m interested in how numerical methods can simulate physical phenomena. MATLAB/Octave are my go-to tools for now, and I’ve worked on quantum mechanics simulations, orbital visualizations, and energy level calculations.
 
-### 42 👨🏽‍💻
+- **Cybersecurity & Systems Hardening:**  
+  Linux setups, secure configurations, and network protocols. I'm curious about how systems can be both robust and vulnerable at the same time.
 
-#### Piscine 🏊🏼‍♂️
+- **Dev Tools & Workflow:**  
+  Vim/Neovim for everyday coding, Git for version control, and LaTeX for scientific documentation. I like things minimalistic and efficient.
 
-- [42 Piscine 🗓️](https://github.com/cesardelarosa/42-Piscine)
-  - My work on 42Madrid Piscine (July 2023)
-  - Shell00, Shell01, C00 to C07 and Rush00
+### Tools I Use 🛠️  
+<p align="center">
+  <a href="https://www.vim.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="VIM" width="50"/></a>&nbsp;&nbsp;
+  <a href="https://en.cppreference.com/w/c/language"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50"/></a>&nbsp;&nbsp;
+  <a href="https://en.cppreference.com/w/cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="BASH" width="50"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="GIT" width="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.latex-project.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50"/></a>
+</p>
 
-#### Level 0 - Common Core 🌱
+---
 
+## 42 Projects 🚀  
 
-- [Libft 🗃️](https://github.com/cesardelarosa/Libft)
-  - Implementing functions from the C standard library (libc) and managing linked lists.
-  - 125/100 (success) | 22/09/2023
+### Piscine 🏊  
+- 🏗️ [42 Piscine](https://github.com/cesardelarosa/42-Piscine)  
+  Basics: Shell scripting, C fundamentals, and some creative suffering.  
+  *(July 2023)*  
 
-#### Level 1 - Common Core ☘️
+### Core Levels  
 
-- [ft_printf 🖨️](https://github.com/cesardelarosa/ft_printf)
-  - My own (simplified) implementation of printf, works with cspdiuxX% conversions and no flags.
-  - 100/100 (success) | 30/09/2023
-- [get_next_line 📝](https://github.com/cesardelarosa/get_next_line)
-  - A function designed to read a file and retrieve its lines sequentially.
-  - 125/100 (success) | 08/11/2023  
-- [Born2beroot ⚙️](https://github.com/cesardelarosa/Born2beroot)
-  - Documentation and configurations for a Debian setup within a virtual machine.
-  - 110/100 (success) | 04/07/2024 
+- 🔍 **Libft** | [Repo](https://github.com/cesardelarosa/Libft)  
+  Reimplementing libc essentials + linked lists.  
+  **125/100** *(Sep 2023)*  
 
-#### Level 2 - Common Core 🍀
+- 🖨️ **ft_printf** | [Repo](https://github.com/cesardelarosa/ft_printf)  
+  My own printf version—no flags, just the essentials.  
+  **100/100** *(Sep 2023)*  
 
-- [fract-ol ♣️](https://github.com/cesardelarosa/fract-ol)
-  - A program that showcases various interactive fractal representations.
-  - Working on it.
+- 📖 **get_next_line** | [Repo](https://github.com/cesardelarosa/get_next_line)  
+  File-reading line by line, 'cause streams are a thing.  
+  **125/100** *(Nov 2023)*  
 
+- ⚙️ **Born2beroot** | [Repo](https://github.com/cesardelarosa/Born2beroot)  
+  Debian VM setup, basic server config, nothing fancy.  
+  **110/100** *(Jul 2024)*  
 
-## Contact 📬
+- 🌀 **fract-ol** | [Repo](https://github.com/cesardelarosa/fract-ol)  
+  Interactive fractals, zoom in, zoom out—math in action.  
+  *(In progress)*  
 
-Feel free to reach out to me through the following channels:
+- 🚰 **pipex** | [Repo](https://github.com/cesardelarosa/pipex)  
+  Recreating Unix pipes. Simple idea, tricky implementation.  
 
-[<img src="https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233226/static/logos/proton-mail-badge_puvcia.svg" alt="ProtonMail" width="50"/>](mailto:cesardelarosa.code@proton.me) &nbsp; &nbsp; &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/c%C3%A9sar-de-la-rosa-sobrino-6b4403239/)
+- 🧮 **push_swap** | [Repo](https://github.com/cesardelarosa/push_swap)  
+  Sorting numbers with limited operations. Algorithms, baby.  
 
+- 🐚 **minishell** | [Repo](https://github.com/cesardelarosa/minishell)  
+  A tiny Bash-like shell—parsing, pipes, execution.  
+
+- 🤯 **philosophers** | [Repo](https://github.com/cesardelarosa/philosophers)  
+  Multithreading and process synchronization with dining philosophers.  
+
+---
+
+## Physics & Computational Projects 🧪  
+
+- 🌐 **Spherical Harmonics** | [Repo](https://github.com/cesardelarosa/SphericalHarmonics)  
+  MATLAB visualization of atomic orbitals. Adjust quantum numbers to see spherical harmonics in action.  
+
+- ⚛️ **1D Schrödinger Solver** | [Repo](https://github.com/cesardelarosa/Schrodinger_1D)  
+  Numerical solution for energy levels under different potential configurations.  
+
+---
+
+## Other Projects 🎯  
+
+- 🗑️ **antiWuolah** | [Repo](https://github.com/cesardelarosa/antiWuolah)  
+  Tool to remove watermark ads from Wuolah PDFs. Available on AUR.  
+
+---
+
+## Contact 📬  
+[ProtonMail](mailto:cesardelarosa.code@proton.me) | [LinkedIn](https://www.linkedin.com/in/c%C3%A9sar-de-la-rosa-sobrino-6b4403239/)
