@@ -38,48 +38,48 @@ Hey, I'm César. I study Physics at UNED and I'm a 42 student in 42Madrid (cde-l
 
 ### Core Levels  
 
-- 🔍 **Libft** | [Repo](https://github.com/cesardelarosa/Libft)  
+- 🔍 [Libft](https://github.com/cesardelarosa/Libft)  
   Reimplementing libc essentials + linked lists.   
 
-- 🖨️ **ft_printf** | [Repo](https://github.com/cesardelarosa/ft_printf)  
+- 🖨️ [ft_printf](https://github.com/cesardelarosa/ft_printf)  
   My own printf version—no flags, just the essentials.  
 
-- 📖 **get_next_line** | [Repo](https://github.com/cesardelarosa/get_next_line)  
+- 📖 [get_next_line](https://github.com/cesardelarosa/get_next_line)  
   File-reading line by line, 'cause streams are a thing.  
 
-- ⚙️ **Born2beroot** | [Repo](https://github.com/cesardelarosa/Born2beroot)  
+- ⚙️ [Born2beroot](https://github.com/cesardelarosa/Born2beroot)  
   Debian VM setup, basic server config, nothing fancy.  
 
-- 🌀 **fract-ol** | [Repo](https://github.com/cesardelarosa/fract-ol)  
+- 🌀 [fract-ol](https://github.com/cesardelarosa/fract-ol)  
   Interactive fractals, zoom in, zoom out—math in action.  
 
-- 🚰 **pipex** | [Repo](https://github.com/cesardelarosa/pipex)  
+- 🚰 [pipex](https://github.com/cesardelarosa/pipex)  
   Recreating Unix pipes. Simple idea, tricky implementation.  
 
-- 🧮 **push_swap** | [Repo](https://github.com/cesardelarosa/push_swap)  
+- 🧮 [push_swap](https://github.com/cesardelarosa/push_swap)  
   Sorting numbers with limited operations. Algorithms, baby.  
 
-- 🐚 **minishell** | [Repo](https://github.com/cesardelarosa/minishell)  
+- 🐚 [minishell](https://github.com/cesardelarosa/minishell)  
   A tiny Bash-like shell—parsing, pipes, execution.  
 
-- 🤯 **philosophers** | [Repo](https://github.com/cesardelarosa/philosophers)  
+- 🤯 [philosophers](https://github.com/cesardelarosa/philosophers)  
   Multithreading and process synchronization with dining philosophers.  
 
 ---
 
 ## Physics & Computational Projects 🧪  
 
-- 🌐 **Spherical Harmonics** | [Repo](https://github.com/cesardelarosa/SphericalHarmonics)  
+- 🌐 [Spherical Harmonics](https://github.com/cesardelarosa/SphericalHarmonics)  
   MATLAB visualization of atomic orbitals. Adjust quantum numbers to see spherical harmonics in action.  
 
-- ⚛️ **1D Schrödinger Solver** | [Repo](https://github.com/cesardelarosa/Schrodinger_1D)  
+- ⚛️ [1D Schrödinger Solver](https://github.com/cesardelarosa/Schrodinger_1D)  
   Numerical solution for energy levels under different potential configurations.  
 
 ---
 
 ## Other Projects 🎯  
 
-- 🗑️ **antiWuolah** | [Repo](https://github.com/cesardelarosa/antiWuolah)  
+- 🗑️ [antiWuolah](https://github.com/cesardelarosa/antiWuolah)  
   Tool to remove watermark ads from Wuolah PDFs. Available on AUR.  
 
 ---
