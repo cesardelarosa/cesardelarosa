@@ -67,7 +67,7 @@ Hey, I'm César. I study Physics at UNED and I'm a 42 student in 42Madrid (cde-l
   
 ### Utils
 
-- 🧮 [push_swap_performance_tester](https://github.com/cesardelarosa/push_swap_performance_tester)  
+- 📊 [push_swap_performance_tester](https://github.com/cesardelarosa/push_swap_performance_tester)  
   Graphical tester and performance analizer pyhton scripts for push_swap.
 
 ---
