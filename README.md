@@ -18,13 +18,16 @@ Hey, I'm César. I study Physics at UNED and I'm a 42 student in 42Madrid (cde-l
   Vim/Neovim for everyday coding, Git for version control, and LaTeX for scientific documentation. I like things minimalistic and efficient.
 
 ### Tools I Use 🛠️  
+
 <p align="center">
   <a href="https://www.vim.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="VIM" width="50"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="GIT" width="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="BASH" width="50"/></a>&nbsp;&nbsp;
   <a href="https://en.cppreference.com/w/c/language"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50"/></a>&nbsp;&nbsp;
   <a href="https://en.cppreference.com/w/cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.julialang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" alt="Julia" width="50"/></a>&nbsp;&nbsp;
   <a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50"/></a>&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="BASH" width="50"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="GIT" width="50"/></a>&nbsp;&nbsp;
   <a href="https://www.latex-project.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50"/></a>
 </p>
 
