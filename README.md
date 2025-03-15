@@ -63,7 +63,12 @@ Hey, I'm César. I study Physics at UNED and I'm a 42 student in 42Madrid (cde-l
   A tiny Bash-like shell—parsing, pipes, execution.  
 
 - 🤯 [philosophers](https://github.com/cesardelarosa/philosophers)  
-  Multithreading and process synchronization with dining philosophers.  
+  Multithreading and process synchronization with dining philosophers.
+  
+### Utils
+
+- 🧮 [push_swap_performance_tester](https://github.com/cesardelarosa/push_swap_performance_tester)  
+  Graphical tester and performance analizer pyhton scripts for push_swap.
 
 ---
 
