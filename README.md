@@ -85,7 +85,7 @@ Hey, I'm César. I study Physics at UNED and I'm a 42 student in 42Madrid (cde-l
 ## Other Projects 🎯  
 
 - 🗑️ [antiWuolah](https://github.com/cesardelarosa/antiWuolah)  
-  Tool to remove watermark ads from Wuolah PDFs. Available on AUR.  
+  Tool to remove ads from Wuolah PDFs. Available on AUR.  
 
 ---
 
