@@ -50,9 +50,6 @@ Hey, I'm César. I study Physics at UNED and I'm a 42 student in 42Madrid (cde-l
 - 📖 [get_next_line](https://github.com/cesardelarosa/get_next_line)  
   File-reading line by line, 'cause streams are a thing.  
 
-- ⚙️ [Born2beroot](https://github.com/cesardelarosa/Born2beroot)  
-  Debian VM setup, basic server config, nothing fancy.  
-
 - 🌀 [fract-ol](https://github.com/cesardelarosa/fract-ol)  
   Interactive fractals, zoom in, zoom out—math in action.  
 
