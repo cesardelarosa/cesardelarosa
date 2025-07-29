@@ -60,10 +60,25 @@ Hey, I'm César. I study Physics at UNED and I'm a 42 student in 42Madrid (cde-l
   Sorting numbers with limited operations. Algorithms, baby.  
 
 - 🐚 [minishell](https://github.com/cesardelarosa/minishell)  
-  A tiny Bash-like shell—parsing, pipes, execution.  
+  A tiny Bash-like shell—parsing, pipes, execution. (ft. [adpedrer](https://github.com/AdrianPMiro))
 
-- 🤯 [philosophers](https://github.com/cesardelarosa/philosophers)  
+- 🍽️ [philosophers](https://github.com/cesardelarosa/philosophers)  
   Multithreading and process synchronization with dining philosophers.
+  
+- 🖼️ [miniRT](https://github.com/AdrianPMiro/miniRT)
+  A simple Ray Tracer in C for rendering geometric objects. (ft. [adpedrer](https://github.com/AdrianPMiro))
+
+- 🛠️ [PiscineCPP](https://github.com/cesardelarosa/PiscineCPP)
+  42's deep dive into C++ fundamentals.
+  
+- 🐳 [Inception](https://github.com/cesardelarosa/Inception)
+  Orchestrating services with Docker containers. The more, the merrier.
+  
+- 💬 [ft_irc]()
+  To be done...
+
+- 🎮 [ft_transcendence]()
+  I'm waiting for it!
   
 ### Utils
 
