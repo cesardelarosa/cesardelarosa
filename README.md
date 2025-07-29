@@ -39,45 +39,45 @@ Hey, I'm César. I study Physics at UNED and I'm a 42 student in 42Madrid (cde-l
 - 🏗️ [42 Piscine](https://github.com/cesardelarosa/42-Piscine)  
   Basics: Shell scripting, C fundamentals, and some creative suffering.  
 
-### Core Levels  
+### Core Levels
 
 - 🔍 [Libft](https://github.com/cesardelarosa/Libft)  
-  Reimplementing libc essentials + linked lists.   
+  Reimplementing libc essentials + linked lists.
 
 - 🖨️ [ft_printf](https://github.com/cesardelarosa/ft_printf)  
-  My own printf version—no flags, just the essentials.  
+  My own printf version—no flags, just the essentials.
 
 - 📖 [get_next_line](https://github.com/cesardelarosa/get_next_line)  
-  File-reading line by line, 'cause streams are a thing.  
+  File-reading line by line, 'cause streams are a thing.
 
 - 🌀 [fract-ol](https://github.com/cesardelarosa/fract-ol)  
-  Interactive fractals, zoom in, zoom out—math in action.  
+  Interactive fractals, zoom in, zoom out—math in action.
 
 - 🚰 [pipex](https://github.com/cesardelarosa/pipex)  
-  Recreating Unix pipes. Simple idea, tricky implementation.  
+  Recreating Unix pipes. Simple idea, tricky implementation.
 
 - 🧮 [push_swap](https://github.com/cesardelarosa/push_swap)  
-  Sorting numbers with limited operations. Algorithms, baby.  
+  Sorting numbers with limited operations. Algorithms, baby.
 
 - 🐚 [minishell](https://github.com/cesardelarosa/minishell)  
   A tiny Bash-like shell—parsing, pipes, execution. (ft. [adpedrer](https://github.com/AdrianPMiro))
 
 - 🍽️ [philosophers](https://github.com/cesardelarosa/philosophers)  
   Multithreading and process synchronization with dining philosophers.
-  
-- 🖼️ [miniRT](https://github.com/AdrianPMiro/miniRT)
+
+- 🖼️ [miniRT](https://github.com/AdrianPMiro/miniRT)  
   A simple Ray Tracer in C for rendering geometric objects. (ft. [adpedrer](https://github.com/AdrianPMiro))
 
-- 🛠️ [PiscineCPP](https://github.com/cesardelarosa/PiscineCPP)
+- 🛠️ [PiscineCPP](https://github.com/cesardelarosa/PiscineCPP)  
   42's deep dive into C++ fundamentals.
-  
-- 🐳 [Inception](https://github.com/cesardelarosa/Inception)
+
+- 🐳 [Inception](https://github.com/cesardelarosa/Inception)  
   Orchestrating services with Docker containers. The more, the merrier.
-  
-- 💬 [ft_irc]()
+
+- 💬 [ft_irc]()  
   To be done...
 
-- 🎮 [ft_transcendence]()
+- 🎮 [ft_transcendence]()  
   I'm waiting for it!
   
 ### Utils
