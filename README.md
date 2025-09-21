@@ -74,7 +74,7 @@ Hey, I'm César. I study Physics at UNED and I'm a 42 student in 42Madrid (cde-l
 - 🐳 [Inception](https://github.com/cesardelarosa/Inception)  
   Orchestrating services with Docker containers. The more, the merrier.
 
-- 💬 [ft_irc]()  
+- 💬 [ft_irc](https://github.com/cesardelarosa/ft_irc)  
   To be done...
 
 - 🎮 [ft_transcendence]()  
