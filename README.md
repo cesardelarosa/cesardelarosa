@@ -77,8 +77,8 @@ Hey, I'm César. I study Physics at UNED and I'm a 42 student in 42Madrid (cde-l
 - 💬 [ft_irc](https://github.com/cesardelarosa/ft_irc)  
   Whatsapp 2, C++98 style! (ft. [adpedrer](https://github.com/AdrianPMiro) & [acaro-su](https://github.com/asusmozas))
 
-- 🎮 [ft_transcendence]()  
-  I'm waiting for it!
+- 🎮 [ft_transcendence](https://github.com/DavidY343/FT_TRANSCENDANCE)  
+  Our small chess.com
   
 ### Utils
 
