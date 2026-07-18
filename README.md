@@ -53,7 +53,7 @@ I am a Physics student at UNED and a Software Engineering student at 42 Madrid, 
 
 ## Other Projects
 
-- [antiWuolah](https://github.com/cesardelarosa/antiWuolah) – CLI tool to remove ads from Wuolah PDFs. Packaged and available on the Arch User Repository (AUR).
+- [antiWuolah](https://github.com/cesardelarosa/antiWuolah) – CLI tool to remove ads from Wuolah PDFs.
 
 ---
 
