@@ -1,113 +1,67 @@
-# Welcome 👋🏽
+# César de la Rosa
 
-## About Me 🧠  
-Hey, I'm César. I study Physics at UNED and I'm a 42 student in 42Madrid (cde-la-r). I enjoy coding, especially when it involves cybersecurity, systems, and some AI. This repo is mostly my journey through 42's Common Core and physics side projects.
+## About Me
+I am a Physics student at UNED and a Software Engineering student at 42 Madrid, having recently completed the Common Core curriculum. My work focuses on low-level system programming, computational physics, and infrastructure. I am particularly interested in understanding system internals, efficient algorithm design, and how numerical methods can simulate physical phenomena.
 
-## Skills & Interests ⚙️  
+## Skills & Technologies
+- **Systems & Low-level:** C, C++, Rust, Bash. Focus on memory management, process synchronization, and Unix internals.
+- **Infrastructure & DevOps:** Docker, Linux administration, secure configurations, and self-hosted environments.
+- **Computational Physics:** MATLAB, Python, LaTeX. Numerical solutions and scientific data visualization.
+- **Web & Scripting:** JavaScript, Python.
 
-- **Low-level Programming & Systems:**  
-  C, Bash scripting, and Unix internals. I like understanding how things work under the hood—memory management, process control, and efficient algorithms. Projects like minishell and pipex gave me solid hands-on experience here.
-
-- **Computational Physics:**  
-  I’m interested in how numerical methods can simulate physical phenomena. MATLAB/Octave are my go-to tools for now, and I’ve worked on quantum mechanics simulations, orbital visualizations, and energy level calculations.
-
-- **Cybersecurity & Systems Hardening:**  
-  Linux setups, secure configurations, and network protocols. I'm curious about how systems can be both robust and vulnerable at the same time.
-
-- **Dev Tools & Workflow:**  
-  Vim/Neovim for everyday coding, Git for version control, and LaTeX for scientific documentation. I like things minimalistic and efficient.
-
-### Tools I Use 🛠️  
-
+### Tools
 <p align="center">
-  <a href="https://www.vim.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="VIM" width="50"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="GIT" width="50"/></a>&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="BASH" width="50"/></a>&nbsp;&nbsp;
-  <a href="https://en.cppreference.com/w/c/language"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50"/></a>&nbsp;&nbsp;
-  <a href="https://en.cppreference.com/w/cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/></a>&nbsp;&nbsp;
-  <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/></a>&nbsp;&nbsp;
-  <a href="https://www.julialang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" alt="Julia" width="50"/></a>&nbsp;&nbsp;
-  <a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50"/></a>&nbsp;&nbsp;
-  <a href="https://www.latex-project.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,julia,anaconda,js,arduino,raspberrypi,bash,docker,linux,git,matlab,latex" alt="My Skills" />
+  </a>
 </p>
 
 ---
 
-## 42 Projects 🚀  
+## 42 Projects (Common Core Completed)
 
-### Piscine 🏊  
-- 🏗️ [42 Piscine](https://github.com/cesardelarosa/42-Piscine)  
-  Basics: Shell scripting, C fundamentals, and some creative suffering.  
+### Systems & Unix
+- [minishell](https://github.com/cesardelarosa/minishell) – A lightweight Bash-like shell featuring parsing, pipe implementation, and process execution. (with [adpedrer](https://github.com/AdrianPMiro))
+- [philosophers](https://github.com/cesardelarosa/philosophers) – Multithreading and process synchronization modeling the dining philosophers problem.
+- [pipex](https://github.com/cesardelarosa/pipex) – Recreation of Unix piping mechanisms.
+- [get_next_line](https://github.com/cesardelarosa/get_next_line) & [ft_printf](https://github.com/cesardelarosa/ft_printf) & [Libft](https://github.com/cesardelarosa/Libft) – Standard C library reimplementations and file stream handling.
 
-### Core Levels
+### Algorithms & Object-Oriented Programming
+- [push_swap](https://github.com/cesardelarosa/push_swap) – Number sorting algorithm constrained by limited operations and stack usage.
+- [PiscineCPP](https://github.com/cesardelarosa/PiscineCPP) – Deep dive into C++98 OOP fundamentals, memory allocation, and polymorphism.
 
-- 🔍 [Libft](https://github.com/cesardelarosa/Libft)  
-  Reimplementing libc essentials + linked lists.
+### Networking, Web & Infrastructure
+- [Inception](https://github.com/cesardelarosa/Inception) – System administration project orchestrating multiple services (Nginx, WordPress, MariaDB) using Docker and docker-compose.
+- [ft_irc](https://github.com/cesardelarosa/ft_irc) – Fully functional IRC server written in C++98 handling multiplexing and client-server communication. (with [adpedrer](https://github.com/AdrianPMiro) & [acaro-su](https://github.com/asusmozas))
+- [ft_transcendence](https://github.com/DavidY343/FT_TRANSCENDANCE) – Multiplayer real-time pong game and social platform. (with [jrubio-m](https://github.com/jrubio-m), [dyanez-m](https://github.com/DavidY343) & [jonjimen](https://github.com/JonathanJimenezMunoz))
 
-- 🖨️ [ft_printf](https://github.com/cesardelarosa/ft_printf)  
-  My own printf version—no flags, just the essentials.
+### Graphics
+- [miniRT](https://github.com/AdrianPMiro/miniRT) – Ray Tracer written in C for rendering primitive geometric objects and lighting. (with [adpedrer](https://github.com/AdrianPMiro))
+- [fract-ol](https://github.com/cesardelarosa/fract-ol) – Interactive fractal explorer demonstrating complex math rendering.
 
-- 📖 [get_next_line](https://github.com/cesardelarosa/get_next_line)  
-  File-reading line by line, 'cause streams are a thing.
-
-- 🌀 [fract-ol](https://github.com/cesardelarosa/fract-ol)  
-  Interactive fractals, zoom in, zoom out—math in action.
-
-- 🚰 [pipex](https://github.com/cesardelarosa/pipex)  
-  Recreating Unix pipes. Simple idea, tricky implementation.
-
-- 🧮 [push_swap](https://github.com/cesardelarosa/push_swap)  
-  Sorting numbers with limited operations. Algorithms, baby.
-
-- 🐚 [minishell](https://github.com/cesardelarosa/minishell)  
-  A tiny Bash-like shell—parsing, pipes, execution. (ft. [adpedrer](https://github.com/AdrianPMiro))
-
-- 🍽️ [philosophers](https://github.com/cesardelarosa/philosophers)  
-  Multithreading and process synchronization with dining philosophers.
-
-- 🖼️ [miniRT](https://github.com/AdrianPMiro/miniRT)  
-  A simple Ray Tracer in C for rendering geometric objects. (ft. [adpedrer](https://github.com/AdrianPMiro))
-
-- 🛠️ [PiscineCPP](https://github.com/cesardelarosa/PiscineCPP)  
-  42's deep dive into C++ fundamentals.
-
-- 🐳 [Inception](https://github.com/cesardelarosa/Inception)  
-  Orchestrating services with Docker containers. The more, the merrier.
-
-- 💬 [ft_irc](https://github.com/cesardelarosa/ft_irc)  
-  Whatsapp 2, C++98 style! (ft. [adpedrer](https://github.com/AdrianPMiro) & [acaro-su](https://github.com/asusmozas))
-
-- 🎮 [ft_transcendence](https://github.com/DavidY343/FT_TRANSCENDANCE)  
-  Our small chess.com. (ft. [jrubio-m](https://github.com/jrubio-m), [dyanez-m](https://github.com/DavidY343) & [jonjimen](https://github.com/JonathanJimenezMunoz))
-  
-### Utils
-
-- 📊 [push_swap_performance_tester](https://github.com/cesardelarosa/push_swap_performance_tester)  
-  Graphical tester and performance analizer pyhton scripts for push_swap.
+### Utilities
+- [push_swap_performance_tester](https://github.com/cesardelarosa/push_swap_performance_tester) – Python-based graphical tester and performance analyzer for the push_swap project.
 
 ---
 
-## Physics & Computational Projects 🧪  
+## Physics & Computational Projects
 
-- 🌐 [Spherical Harmonics](https://github.com/cesardelarosa/SphericalHarmonics)  
-  MATLAB visualization of atomic orbitals. Adjust quantum numbers to see spherical harmonics in action.  
-
-- ⚛️ [1D Schrödinger Solver](https://github.com/cesardelarosa/Schrodinger_1D)  
-  Numerical solution for energy levels under different potential configurations.  
+- [Spherical Harmonics](https://github.com/cesardelarosa/SphericalHarmonics) – MATLAB visualization of atomic orbitals adjusting quantum numbers.
+- [1D Schrödinger Solver](https://github.com/cesardelarosa/Schrodinger_1D) – Numerical solution for energy levels under various potential configurations.
 
 ---
 
-## Other Projects 🎯  
+## Other Projects
 
-- 🗑️ [antiWuolah](https://github.com/cesardelarosa/antiWuolah)  
-  Tool to remove ads from Wuolah PDFs. Available on AUR.  
+- [antiWuolah](https://github.com/cesardelarosa/antiWuolah) – CLI tool to remove ads from Wuolah PDFs. Packaged and available on the Arch User Repository (AUR).
 
 ---
 
-## Contact 📬  
-<a href="mailto:cesardelarosa.code@proton.me">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ProtonMail_icon.svg/1920px-ProtonMail_icon.svg.png" alt="ProtonMail" width="30"/>
-</a>&nbsp;&nbsp;&nbsp;
+## Contact
+
+<a href="mailto:cesardelarosasobrino@protonmail.com">
+  <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/c%C3%A9sar-de-la-rosa-sobrino-6b4403239/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
