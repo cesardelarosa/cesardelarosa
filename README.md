@@ -18,7 +18,7 @@ I am a Physics student at UNED and a Software Engineering student at 42 Madrid, 
 
 ---
 
-## 42 Projects (Common Core Completed)
+## 42 Projects
 
 ### Systems & Unix
 - [minishell](https://github.com/cesardelarosa/minishell) – A lightweight Bash-like shell featuring parsing, pipe implementation, and process execution. (with [adpedrer](https://github.com/AdrianPMiro))
