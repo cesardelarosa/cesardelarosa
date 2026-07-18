@@ -1,4 +1,4 @@
-# César de la Rosa
+# César de la Rosa Sobrino
 
 ## About Me
 I am a Physics student at UNED and a Software Engineering student at 42 Madrid, having recently completed the Common Core curriculum. My work focuses on low-level system programming, computational physics, and infrastructure. I am particularly interested in understanding system internals, efficient algorithm design, and how numerical methods can simulate physical phenomena.
