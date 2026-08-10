@@ -43,7 +43,7 @@ I am a Physics student at UNED and a Software Engineering student at 42 Madrid, 
 - [push_swap_performance_tester](https://github.com/cesardelarosa/push_swap_performance_tester) – Python-based graphical tester and performance analyzer for the push_swap project.
 
 ### Theoretical Computer Science & Functional Programming
-- [ready-set-boole](https://github.com/cesardelarosa/ready_set_boole) – An introduction to Boolean algebra and set theory, implemented in Haskell.
+- [ready-set-boole](https://github.com/cesardelarosa/ready-set-boole) – An introduction to Boolean algebra and set theory, implemented in Haskell.
 - [ft_ality](https://github.com/cesardelarosa/ft_ality) – A finite-state automaton engine in Haskell for parsing formal grammars and regular languages from the Chomsky hierarchy.
 - [ft_turing](https://github.com/cesardelarosa/ft_turing) – A single-tape Turing machine simulator written in Haskell, modeling fundamental computation.
 
