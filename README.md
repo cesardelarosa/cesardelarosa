@@ -33,7 +33,7 @@ I am a Physics student at UNED and a Software Engineering student at 42 Madrid, 
 ### Networking, Web & Infrastructure
 - [Inception](https://github.com/cesardelarosa/Inception) – System administration project orchestrating multiple services (Nginx, WordPress, MariaDB) using Docker and docker-compose.
 - [ft_irc](https://github.com/cesardelarosa/ft_irc) – Fully functional IRC server written in C++98 handling multiplexing and client-server communication. (with [adpedrer](https://github.com/AdrianPMiro) & [acaro-su](https://github.com/asusmozas))
-- [ft_transcendence](https://github.com/DavidY343/FT_TRANSCENDANCE) – Multiplayer real-time pong game and social platform. (with [jrubio-m](https://github.com/jrubio-m), [dyanez-m](https://github.com/DavidY343) & [jonjimen](https://github.com/JonathanJimenezMunoz))
+- [ft_transcendence](https://github.com/DavidY343/FT_TRANSCENDANCE) – Multiplayer real-time chess game and social platform. (with [jrubio-m](https://github.com/jrubio-m), [dyanez-m](https://github.com/DavidY343) & [jonjimen](https://github.com/JonathanJimenezMunoz))
 
 ### Graphics
 - [miniRT](https://github.com/AdrianPMiro/miniRT) – Ray Tracer written in C for rendering primitive geometric objects and lighting. (with [adpedrer](https://github.com/AdrianPMiro))
