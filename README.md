@@ -36,7 +36,7 @@ I am a Physics student at UNED and a Software Engineering student at 42 Madrid, 
 - [ft_transcendence](https://github.com/DavidY343/FT_TRANSCENDANCE) – Multiplayer real-time chess game and social platform. (with [jrubio-m](https://github.com/jrubio-m), [dyanez-m](https://github.com/DavidY343) & [jonjimen](https://github.com/JonathanJimenezMunoz))
 
 ### Graphics
-- [miniRT](https://github.com/AdrianPMiro/miniRT) – Ray Tracer written in C for rendering primitive geometric objects and lighting. (with [adpedrer](https://github.com/AdrianPMiro))
+- [miniRT](https://github.com/cesardelarosa/miniRT) – Ray Tracer written in C for rendering primitive geometric objects and lighting. (with [adpedrer](https://github.com/AdrianPMiro))
 - [fract-ol](https://github.com/cesardelarosa/fract-ol) – Interactive fractal explorer demonstrating complex math rendering.
 
 ### Utilities
