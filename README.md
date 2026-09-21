@@ -44,8 +44,6 @@ I am a Physics student at UNED and a Software Engineering student at 42 Madrid, 
 
 ### Theoretical Computer Science & Functional Programming (Haskell)
 - [ready-set-boole](https://github.com/cesardelarosa/ready-set-boole) – An introduction to Boolean algebra and set theory. (Working on it)
-- [ft_ality](https://github.com/cesardelarosa/ft_ality) – A finite-state automaton engine for parsing formal grammars and regular languages from the Chomsky hierarchy. (To be done)
-- [ft_turing](https://github.com/cesardelarosa/ft_turing) – A single-tape Turing machine simulator modeling fundamental computation. (To be done)
 
 ---
 
