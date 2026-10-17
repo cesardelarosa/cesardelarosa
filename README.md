@@ -45,6 +45,9 @@ I am a Physics student at UNED and a Software Engineering student at 42 Madrid, 
 ### Theoretical Computer Science & Functional Programming (Haskell)
 - [ready-set-boole](https://github.com/cesardelarosa/ready-set-boole) – An introduction to Boolean algebra and set theory. (Working on it)
 
+### Artificial Intelligence / Machine Learning
+- [ft_linear_regression](https://github.com/cesardelarosa/ft_linear_regression) - Simple use of gradient descent. (Working on it)
+
 ---
 
 ## Physics & Computational Projects
