@@ -47,7 +47,7 @@ I am a Physics student at UNED and a Software Engineering student at 42 Madrid, 
 
 ### Artificial Intelligence / Machine Learning
 - [ft_linear_regression](https://github.com/cesardelarosa/ft_linear_regression) - Simple use of gradient descent.
-- [dslr]/(https://github.com/cesardelarosa/dslr) - Machine Learning Toolkit used in a logistic regression. (Working on it)
+- [dslr](https://github.com/cesardelarosa/dslr) - Machine Learning Toolkit used in a logistic regression. (Working on it)
 ---
 
 ## Physics & Computational Projects
